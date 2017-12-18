@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1007302092175",
+    "firebase_url": "https://assesmentagoravai.firebaseio.com",
+    "project_id": "assesmentagoravai",
+    "storage_bucket": "assesmentagoravai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007302092175:android:99088381a90df4dd",
+        "android_client_info": {
+          "package_name": "com.wanis.assessmentdesenvolvimentoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007302092175-8llf2cl38nfkq84oumg6m4s4fp0vh1th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wanis.assessmentdesenvolvimentoandroid",
+            "certificate_hash": "c1dcaeedf9a769a511c908165088e249c13d3d7f"
+          }
+        },
+        {
+          "client_id": "1007302092175-48t1isbuuv6qjec50tglkg833va12f2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPytSHN8RJjbcSzIdD9g24gmsxp4aAoks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007302092175-48t1isbuuv6qjec50tglkg833va12f2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
